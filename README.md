@@ -1,15 +1,11 @@
 <h1 align="center">👋 Hi, I'm Chime Yougyal</h1>
-<h3 align="center">🚀 Aspiring Cybersecurity Professional | Cloud & Offensive Security Enthusiast</h3>
-
-<p align="center">
-  <img src="https://i.imgur.com/ZUb3n4Z.gif" alt="cybersecurity gif" width="300"/>
-</p>
+<h3 align="center">🚀 A passionate Cybersecurity Professional | Cloud & Offensive Security Enthusiast</h3>
 
 ---
 
 ### 🛡️ About Me
 
-I'm an aspiring cybersecurity specialist with a strong foundation in offensive and defensive security, cloud technologies, and automation. I enjoy tackling real-world threats using both Red Team and Blue Team strategies, and I'm continuously learning and building on my knowledge through hands-on labs and cloud infrastructure projects.
+A passionate cybersecurity specialist with a strong foundation in offensive and defensive security, cloud technologies, and Digital Forensics. Enjoy tackling real-world threats using both Red Team and Blue Team strategies, and continuously learning and building on my knowledge through hands-on labs and cloud infrastructure projects.
 
 ---
 
@@ -49,10 +45,9 @@ I'm an aspiring cybersecurity specialist with a strong foundation in offensive a
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true" width="49%"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chime43&show_icons=true&locale=en&layout=compact" alt="chime43" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chime43&show_icons=true&locale=en" alt="chime43" /></p>
 
 ---
 
@@ -63,8 +58,5 @@ I'm an aspiring cybersecurity specialist with a strong foundation in offensive a
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/Wj1zSyo.png" width="400"/>
-</p>
 
 > “Security is not a product, but a process.” — Bruce Schneier
