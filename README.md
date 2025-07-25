@@ -60,7 +60,6 @@ I'm an aspiring cybersecurity specialist with a strong foundation in offensive a
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chime-yougyal)  
 📧 Email: chimey43@gmail.com  
-🌐 Portfolio: [YourPortfolio.com](https://yourportfolio.com)
 
 ---
 
